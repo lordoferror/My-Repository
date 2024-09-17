@@ -1,2 +1,2 @@
 # My-Repository
-This repositary work for my practice 
+This repositary is for my practice 
